@@ -1,0 +1,3 @@
+Folder SheppLoganPhantom berisi 2 file program MATLAB yang terdiri dari :
+1. shepplogan.m berisi sourcecode rekonstruksi shepp-logan phantom 512 x 512 pixel dalam domain frekuensi dan perhitungan nilai PSNR-nya
+2. spasialshepplogan.m berisi sourcecode rekonstruksi shepp-logan phantom 512 x 512 pixel dalam domain spasial dan perhitungan nilai PSNR-nya
